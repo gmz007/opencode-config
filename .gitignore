@@ -1,0 +1,12 @@
+# Node
+node_modules
+package.json
+package-lock.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Windows / WSL
+*:Zone.Identifier
+*.Zone.Identifier
